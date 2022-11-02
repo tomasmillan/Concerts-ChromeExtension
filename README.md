@@ -1,6 +1,6 @@
 # Concerts-ChromeExtension
 
-![image](https://github.com/tomasmillan/Concerts-ChromeExtension/pic.jpeg)
+![image](https://github.com/tomasmillan/Concerts-ChromeExtension/blob/main/pic.jpeg)
 
 ## Para descargarla busca en la barra de extensiones Upcoming Concerts Buenos Aires
 
