@@ -1,0 +1,11 @@
+{
+    "version": "1.0",
+    "manifest_version": 3,
+    "name":"Upcoming Concerts Buenos Aires",
+    "description": "This is an extension for the upcoming Concerts on Buenos Aires",
+    "author": "Tomas Millan",
+    "action": {
+        "default_popup":"index.html",
+        "default_title":"Upcoming Concerts Buenos Aires"
+    }
+}
